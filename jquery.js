@@ -79,7 +79,5 @@ $(document).ready(function() {
         }
     }
 
-    // Ok, we're ready to initialize the game, let's do it.
-    // Create a game with 175 by 175 squares inside "#game_object" div:
     $('#game_object').fifteen(175);
 });
